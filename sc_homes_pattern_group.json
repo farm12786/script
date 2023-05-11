@@ -1,0 +1,38 @@
+{
+    "Number(2digit)": [
+        "BBS-PR5"
+    ],
+    "Number(3digit)": [
+        "VC-BS",
+        "BB-BS",
+        "BBS-P",
+        "BB-TR",
+        "GT-KN",
+        "BBS-J",
+        "BB-RTW",
+        "VNID-PR",
+        "VNID-MPR9",
+        "GBB-RP",
+        "BB-RT",
+        "BB-JR",
+        "BB-BN",
+        "GT-PK2",
+        "BB-PR5",
+        "BB-VP",
+        "VNID-VP",
+        "VNID-81",
+        "VC-TR NEXT"
+    ],
+    "C+INT": [
+        "BB-RW"
+    ],
+    "C+Number(2digit)": [
+        "PAVE-PS4",
+        "VNID-PY",
+        "GBB-RK",
+        "GBB-SS",
+        "VC-RV",
+        "PAVE-RV",
+        "GT-CPR9"
+    ]
+}
